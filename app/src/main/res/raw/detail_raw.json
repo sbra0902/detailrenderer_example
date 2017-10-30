@@ -1,0 +1,594 @@
+{
+  "KBrand": "Dr. Oetker",
+  "KHidden": false,
+  "KMaxOrderQuantity": 30,
+  "KNutritionalInformation": {
+    "nutritionalData": [
+      {
+        "content": [
+          {
+            "key": 0,
+            "value": {
+              "cells": [
+                {
+                  "content": "Energie / Brennwerte",
+                  "note": ""
+                },
+                {
+                  "content": "2102 kJ / 505 kcal",
+                  "note": ""
+                }
+              ]
+            }
+          },
+          {
+            "key": 120,
+            "value": {
+              "cells": [
+                {
+                  "content": "Fett",
+                  "note": ""
+                },
+                {
+                  "content": "33 g",
+                  "note": ""
+                }
+              ]
+            }
+          },
+          {
+            "key": 121,
+            "value": {
+              "cells": [
+                {
+                  "content": "davon gesättigte Fettsäuren",
+                  "note": ""
+                },
+                {
+                  "content": "6,6 g",
+                  "note": ""
+                }
+              ]
+            }
+          },
+          {
+            "key": 130,
+            "value": {
+              "cells": [
+                {
+                  "content": "Kohlenhydrate",
+                  "note": ""
+                },
+                {
+                  "content": "45 g",
+                  "note": ""
+                }
+              ]
+            }
+          },
+          {
+            "key": 131,
+            "value": {
+              "cells": [
+                {
+                  "content": "davon Zucker",
+                  "note": ""
+                },
+                {
+                  "content": "26 g",
+                  "note": ""
+                }
+              ]
+            }
+          },
+          {
+            "key": 150,
+            "value": {
+              "cells": [
+                {
+                  "content": "Eiweiß",
+                  "note": ""
+                },
+                {
+                  "content": "5,2 g",
+                  "note": ""
+                }
+              ]
+            }
+          },
+          {
+            "key": 160,
+            "value": {
+              "cells": [
+                {
+                  "content": "Salz",
+                  "note": ""
+                },
+                {
+                  "content": "0,58 g",
+                  "note": ""
+                }
+              ]
+            }
+          }
+        ],
+        "tableHeads": {
+          "cells": [
+            {
+              "content": "Durchschnittliche Nährwerte"
+            },
+            {
+              "content": "100 g",
+              "note": ""
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "KPresentable": false,
+  "KPurchaseable": true,
+  "KWeightPacking": "270g Schachtel",
+  "cartQuantity": 0,
+  "categories": [
+    {
+      "code": "WebCat_l3_308",
+      "url": "/muffins-brownies/c/WebCat_l3_308"
+    },
+    {
+      "code": "Brand_313",
+      "url": "/dr-oetker/c/Brand_313"
+    }
+  ],
+  "classificationMap": {
+    "entry": [
+      {
+        "key": "ATG_SHOP_article_information",
+        "value": {
+          "children": [
+            {
+              "code": "ATG_SHOP_article_information_Key",
+              "features": [
+                {
+                  "code": "AT_key_product_features_1",
+                  "comparable": true,
+                  "featureValues": [
+                    {
+                      "value": "Extra saftig und schokoladig"
+                    }
+                  ],
+                  "name": "Highlight 1",
+                  "position": 1,
+                  "range": false,
+                  "renderingStrategy": "TEXT"
+                },
+                {
+                  "code": "AT_key_product_features_2",
+                  "comparable": true,
+                  "featureValues": [
+                    {
+                      "value": "Mit Schokotropfen"
+                    }
+                  ],
+                  "name": "Highlight 2",
+                  "position": 2,
+                  "range": false,
+                  "renderingStrategy": "TEXT"
+                },
+                {
+                  "code": "AT_key_product_features_3",
+                  "comparable": true,
+                  "featureValues": [
+                    {
+                      "value": "Mit Backförmchen für 24 Mini Muffins"
+                    }
+                  ],
+                  "name": "Highlight 3",
+                  "position": 3,
+                  "range": false,
+                  "renderingStrategy": "TEXT"
+                }
+              ],
+              "position": 15,
+              "renderingStrategy": "LIST"
+            }
+          ],
+          "code": "ATG_SHOP_article_information",
+          "features": [
+            {
+              "code": "AT_legally_prescribed_product_name",
+              "comparable": true,
+              "featureValues": [
+                {
+                  "value": "Backmischung für Mini Muffins"
+                }
+              ],
+              "name": "Rechtliche Produktbezeichnung",
+              "position": 1,
+              "range": false,
+              "renderingStrategy": "TEXT"
+            }
+          ],
+          "name": "Artikelbeschreibung",
+          "position": 10
+        }
+      },
+      {
+        "key": "ATG_SHOP_contact",
+        "value": {
+          "children": [
+            {
+              "code": "ATG_SHOP_contact_manufacturer",
+              "features": [
+                {
+                  "code": "AT_manufacturer_name",
+                  "comparable": true,
+                  "featureValues": [
+                    {
+                      "value": "Dr. Oetker Nahrungsmittel KG"
+                    }
+                  ],
+                  "name": "Name Hersteller",
+                  "position": 1,
+                  "range": false,
+                  "renderingStrategy": "TEXT_WITH_HEADLINE"
+                },
+                {
+                  "code": "AT_manufacturer_address",
+                  "comparable": true,
+                  "featureValues": [
+                    {
+                      "value": "33547 Bielefeld"
+                    }
+                  ],
+                  "name": "Adresse Hersteller",
+                  "position": 2,
+                  "range": false,
+                  "renderingStrategy": "TEXT_WITH_HEADLINE"
+                }
+              ],
+              "position": 81
+            }
+          ],
+          "code": "ATG_SHOP_contact",
+          "name": "Kontakt",
+          "position": 80
+        }
+      },
+      {
+        "key": "ATG_SHOP_features",
+        "value": {
+          "code": "ATG_SHOP_features",
+          "features": [
+            {
+              "code": "AT_net_fill_quantity",
+              "comparable": true,
+              "featureUnit": {
+                "name": "Gramm",
+                "symbol": "g",
+                "unitType": "Mass"
+              },
+              "featureValues": [
+                {
+                  "value": "270"
+                }
+              ],
+              "name": "Nettofüllmenge/Einheit",
+              "position": 24,
+              "range": false,
+              "renderingStrategy": "TEXT_AND_LABEL"
+            },
+            {
+              "code": "AT_size",
+              "comparable": true,
+              "featureValues": [
+                {
+                  "value": "24 Stück"
+                }
+              ],
+              "name": "Größe",
+              "position": 25,
+              "range": false,
+              "renderingStrategy": "TEXT_AND_LABEL"
+            }
+          ],
+          "name": "Eigenschaften",
+          "position": 20
+        }
+      },
+      {
+        "key": "ATG_SHOP_preparation_instructions",
+        "value": {
+          "code": "ATG_SHOP_preparation_instructions",
+          "features": [
+            {
+              "code": "AT_preparation_instructions",
+              "comparable": true,
+              "featureValues": [
+                {
+                  "value": "Sie fügen hinzu:<br/>125ml Speiseöl z.B. Sonnenblumenöl<br/>60ml (5EL) Milch oder Wasser<br/>1 Ei (Größe M)<br/><br/>1. 24 Papierbackförmchen auf das Backblech stellen. Backofen vorheizen. Ober-/Unterhitze: etwa 180°C, Heißluft: etwa 160 °C<br/>2. Backmischung in eine Rührschüssel geben, Öl, Milch und Wasser und Ei hinzufügen. Alles mit einem Mixer (Rührstäbe) auf höchster Stufe etwa 2 Min. zu einem glatten Teig verrühren.<br/><br/>2 Eßlöffel Schokoladentropfen beisteitelegen, die übrigen unterrühren.<br/><br/>3. Teig sofort mit Hilfe von 2 Teelöffeln gleichmäßig in die Förmchen verteilen. Die restlichen Schokoladentropfen aufstreuen. Das Backblech mit den Förmchen in den Backofen schieben<br/>Einschub: Mitte, Backzeit: etwa 15 Min.<br/>Die Muffins vom Blech nehmen und in den Förmchen auf einem Kuchenrost erkalten lassen."
+                }
+              ],
+              "name": "Zubereitungsanweisung",
+              "position": 1,
+              "range": false,
+              "renderingStrategy": "TEXT"
+            }
+          ],
+          "name": "Zubereitungsanweisung",
+          "position": 50
+        }
+      },
+      {
+        "key": "ATG_SHOP_ingredients",
+        "value": {
+          "code": "ATG_SHOP_ingredients",
+          "features": [
+            {
+              "code": "AT_ingredients_list",
+              "comparable": true,
+              "featureValues": [
+                {
+                  "value": "WEIZENMEHL, Zucker, 25% Schokolade (Zucker, Kakaomasse, Kakaobutter, Emulgator (LECITHINE)), WEIZENSTÄRKE, Dextrose, Backpulver (Backtriebmittel Dinatriumdiphosphat, Natriumhydrogencarbonat), Verdickungsmittel (Guarkernmehl, Xanthan, E466), Reisstärke, Emulgatoren E475, E471, E433), Aroma Vanillin.<br/>Kann Spuren von Haselnüssen und Milchbestandteilen enthalten."
+                }
+              ],
+              "name": "Zutatenliste",
+              "position": 4,
+              "range": false,
+              "renderingStrategy": "TEXT_WITH_HEADLINE"
+            },
+            {
+              "code": "AT_quantitiy_individual_content",
+              "comparable": true,
+              "featureValues": [
+                {
+                  "value": "200g Backmischung für den Teig<br/>70g Schokoladentropfen"
+                }
+              ],
+              "name": "Mengen Einzelinhalte",
+              "position": 6,
+              "range": false,
+              "renderingStrategy": "TEXT_WITH_HEADLINE"
+            }
+          ],
+          "name": "Zutaten & Inhaltsstoffe",
+          "position": 30
+        }
+      }
+    ]
+  },
+  "code": "0930838",
+  "images": [
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "styleSwatch",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_account_order_details_1x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_account_order_details_2x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_category_1x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_category_2x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_329_329/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_cart_1x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_cart_2x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_primary_mobile_1x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_700_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_primary_mobile_2x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_700_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_primary_1x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_700_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_primary_2x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_1418_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_flyout_1x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_flyout_2x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_minicart_1x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_minicart_2x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_zoom_1x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_1418_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_zoom_2x",
+      "imageType": "PRIMARY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_1418_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "styleSwatch",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_account_order_details_1x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_account_order_details_2x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_category_1x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_category_2x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_329_329/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_cart_1x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_cart_2x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_primary_mobile_1x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_700_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_primary_mobile_2x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_700_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_primary_1x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_700_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_primary_2x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_1418_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_flyout_1x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_flyout_2x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_minicart_1x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_90_90/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_minicart_2x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_168_168/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_zoom_1x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_1418_trim/deu/52/13/Asset_985213.png"
+    },
+    {
+      "altText": "Mini Muffins 270g 24 Stück",
+      "format": "product_pds_zoom_2x",
+      "galleryIndex": 0,
+      "imageType": "GALLERY",
+      "url": "https://q.static.kaufland.de/media/pim/AP_WebShop/AP_WebShop_1418_trim/deu/52/13/Asset_985213.png"
+    }
+  ],
+  "name": "Mini Muffins 270g 24 Stück",
+  "price": {
+    "KBasePrice": "1 KG = 8.86 €",
+    "KEndTime": "",
+    "formattedValue": "2.39 €",
+    "value": 2.39
+  },
+  "stock": {
+    "stockLevelStatus": "inStock"
+  }
+}
